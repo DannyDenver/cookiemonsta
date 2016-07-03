@@ -1,3 +1,5 @@
+##creates Cookie Coo Monsta emoji 
+
 WINDOW_WIDTH=500
 WINDOW_HEIGHT=500
 FACEWIDTH=float(WINDOW_WIDTH*.66666)
