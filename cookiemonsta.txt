@@ -1,4 +1,4 @@
-##creates Cookie Coo Monsta emoji 
+##creates Cookie Coo Monsta emoji in Python using ezgraphics
 
 WINDOW_WIDTH=500
 WINDOW_HEIGHT=500
